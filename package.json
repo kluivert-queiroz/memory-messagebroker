@@ -1,0 +1,23 @@
+{
+  "name": "memory-messagebroker",
+  "version": "1.0.0",
+  "description": "In memory message broker",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kluivert-queiroz/memory-messagebroker.git"
+  },
+  "author": "Kluivert Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kluivert-queiroz/memory-messagebroker/issues"
+  },
+  "homepage": "https://github.com/kluivert-queiroz/memory-messagebroker#readme"
+}
